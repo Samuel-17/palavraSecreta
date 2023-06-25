@@ -1,3 +1,5 @@
+//ARQUIVOS DE IMAGEM E DE AUDIO NAO INCLUIDOS
+
 //Sons de interação
 var audio = [new Audio('songs/Tons.ogg'), new Audio('songs/Tênis.ogg'), new Audio('songs/Apito.ogg'), new Audio('songs/Xilofone.ogg'), new Audio('songs/Tesouro.ogg'), new Audio('songs/Calmaria.ogg')];
 
